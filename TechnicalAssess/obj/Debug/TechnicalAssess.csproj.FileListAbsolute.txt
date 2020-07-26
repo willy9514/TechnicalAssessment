@@ -1,0 +1,9 @@
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\bin\Debug\TechnicalAssess.exe.config
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\bin\Debug\TechnicalAssess.exe
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\bin\Debug\TechnicalAssess.pdb
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\obj\Debug\TechnicalAssess.csprojAssemblyReference.cache
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\obj\Debug\TechnicalAssess.exe
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\obj\Debug\TechnicalAssess.pdb
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wilfred\source\repos\TechnicalAssess\TechnicalAssess\obj\Debug\TechnicalAssess.csproj.CopyComplete
